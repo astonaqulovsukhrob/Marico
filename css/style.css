@@ -1,0 +1,68 @@
+body {
+    height: 100vh;
+    background-color: rgb(0, 0, 0);
+  }
+  
+  :root {
+    --background: rgb(0, 0, 0);
+  }
+
+  /* morico styles */
+
+  .marico-section_text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .marico-section_text h1 {
+    color: rgb(255, 255, 255);
+  }
+
+  .marico-section_info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin-top: 5%;
+
+  }
+
+  .marico-section_info h4  {
+    color: rgb(255, 255, 255);
+  }
+  .marico-section_info p {
+    color: rgb(130, 130, 130);
+    
+  }
+
+  .marico-section_info img {
+    width: 30px;
+    height: 60px;
+  }
+
+  .marico-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    margin-top: 15%;
+  }
+
+  .marico-text h6 {
+    color: rgb(0, 25, 251);
+  }
+
+  .marico-text h1 {
+    color: rgb(255, 255, 255);
+  }
+
+  .marico-text p {
+    color: rgb(150, 150, 150);
+  }
+
+  .marico-text button {
+    border-color: rgb(145, 145, 145);
+  }
+  
