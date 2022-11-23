@@ -134,3 +134,53 @@ body {
     border: none;
     cursor: pointer;
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.asilbek{
+    text-align: center;
+}
+.asilbek h1{
+    font-size: 37px;
+}
+.p{
+    color: aqua;
+}
+
+.asilbek-div{
+    display: flex;
+    margin: 150px;
+}
+
+.asil img{
+    width: 500px;
+}
+.asilb h1{
+    font-size: 40px;
+}
+.btn{
+    width: 120px;
+    height: 40px;
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.bt{
+    width: 120px;
+    height: 40px;
+    background-color: rgb(49, 49, 49);
+    color: rgb(159, 160, 160);
+    border-radius: 10px;
+}
