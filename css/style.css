@@ -61,6 +61,27 @@ body {
   .marico-text button {
     border-color: rgb(145, 145, 145);
   }
+  .text {
+    display: flex;
+    padding: 100px;
+    gap: 50px;
+}
+
+.text-1 {
+    color: #3C82F4;
+}
+
+.img h1 {
+    padding-top: 30px;
+}
+.img p {
+    padding-top: 20px   ;
+}
+
+.btn {
+    margin: 20px;
+}
+
   
   /* Aliyorbek */
 
