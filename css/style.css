@@ -1,11 +1,7 @@
 body {
-    height: 100vh;
-    background-color: rgb(0, 0, 0);
+    background-color: black;
   }
-  
-  :root {
-    --background: rgb(0, 0, 0);
-  }
+
 
   /* morico styles */
 
@@ -66,3 +62,54 @@ body {
     border-color: rgb(145, 145, 145);
   }
   
+  /* Aliyorbek */
+
+  .from{
+    display: flex;
+    padding-left: 1100px;
+    margin-top: -55px;
+  }
+  .from button{
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #3C82F4;
+    border: none;
+    cursor: pointer;
+  }
+  .from input{
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+  }
+
+  .header{
+    background-color: black;
+    text-align: center;
+    height: 700px;
+  }
+
+  .header-title1{
+    color: white;
+    font-size: 72px;
+    margin-top: 100px;
+  }
+  
+  .btn{
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #3C82F4;
+    border: none;
+    cursor: pointer;
+  }
+
+  .btn-dark{
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #24262b;
+    border: none;
+    cursor: pointer;
+  }
